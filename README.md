@@ -5,87 +5,70 @@
 <h1 align="center">👩‍💻 Sinchana M</h1>
 
 <p align="center">
-Aspiring Web Development · Python · Data Analysis · AI&ML· Gen AI 
-</p>
-
-<p align="center">
-  Turning data into insights through real-world analysis projects 📊
+  <b>ML & Gen AI Intern @ Contriver Technologies</b>
+  <br>
+  <i>Building intelligent systems & scalable AI solutions</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
+
+---
+
+## 🛠️ My Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,mongodb,react,nodejs,docker,aws,vscode,git" />
+</p>
+
+---
+
+## 🎯 What I Do
+* 🧠 **Architecting & deploying** Machine Learning models
+* ⚡ **Building** Generative AI applications and system integrations
+* 🚀 **Engineering** end-to-end AI workflows
+* 📊 **Leveraging** data-driven insights for real-world automation
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Automated Marketing Budget Allocation
+*Lead Developer & System Architect*
+Optimized E-commerce ad spend using predictive machine learning models to maximize ROI.
+* **Key Tech:** Python, Scikit-learn, Streamlit, Pandas
+* **Impact:** Designed a full ML pipeline to forecast budget impact and streamline marketing decisions.
+* 👉 **[View Project Repository](YOUR_LINK_HERE)**
+
+### 🏥 Healthcare Data & AI Integration
+Analyzed patient diagnostic patterns to derive predictive health insights.
+* **Key Tech:** Python, Matplotlib, Data Preprocessing
+* **Impact:** Developed risk stratification models to support clinical decision-making.
+* 👉 [View Healthcare Project](https://github.com/sinchanamuddi/Cognetix_Healthcare_Patient_Data-Analysis)
+
+### 📈 Foundational Data Science
+* **Employee Salary Analysis:** Predictive pay distribution patterns.
+* **Movie Ratings Analysis:** Genre preference modeling.
+* **Weather Data Analysis:** Historical trend identification.
+* 👉 [View All Repositories](https://github.com/sinchanamuddi?tab=repositories)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinchanamuddi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanamuddi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 What I Do
-
-* 🧠 Architecting & deploying Machine Learning models
-* ⚡ Building Generative AI applications and system integrations
-* 🚀 Engineering end-to-end AI workflows
-* 📊 Leveraging data-driven insights for real-world automation
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge"/>
-</p>
-
-
-🚀 Featured Projects
-🤖 Automated Marketing Budget Allocation
-Lead Developer & System Architect
-Optimized E-commerce ad spend using predictive machine learning models to maximize ROI and marketing efficiency.
-
-✔ Designed end-to-end ML workflow and architecture
-✔ Implemented predictive algorithms to forecast budget impact
-✔ Streamlined decision-making for marketing strategies
-
-👉 [Link to Project Repository]
-
-🏥 Healthcare Data & AI Integration
-Analyzed patient diagnostic patterns to derive predictive health insights.
-
-✔ Developed data-driven models for patient risk stratification
-✔ Applied advanced preprocessing for healthcare dataset integration
-✔ Visualized complex trends to support clinical decision-making
-
-👉 https://github.com/sinchanamuddi/Cognetix_Healthcare_Patient_Data-Analysis
-
-📈 Foundational Data Science Projects
-A collection of analytical frameworks and models built during my journey.
-
-Employee Salary Analysis: Predictive patterns in pay distribution.
-
-Movie Ratings Analysis: Genre preference modeling.
-
-Weather Data Analysis: Historical trend identification.
-
-👉 View All Repositories
-
-## 📫 Connect
-
+## 📫 Let's Connect
 📧 [sinchanamuddi@gmail.com](mailto:sinchanamuddi@gmail.com)
-
----
+🔗 [Add your LinkedIn Link Here]
 
 <p align="center">
 ✨ Learning | Building | Growing ✨
