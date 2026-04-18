@@ -21,7 +21,7 @@
 ## 🛠️ My Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,mongodb,react,nodejs,docker,aws,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mongodb,react,nodejs,docker,vscode,git" />
 </p>
 
 ---
