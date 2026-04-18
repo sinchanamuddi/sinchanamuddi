@@ -68,7 +68,7 @@ Analyzed patient diagnostic patterns to derive predictive health insights.
 
 ## 📫 Let's Connect
 📧 [sinchanamuddi@gmail.com](mailto:sinchanamuddi@gmail.com)
-🔗 [Add your LinkedIn Link Here]
+🔗 [https://linkedin.com/in/sinchana-m-sd]
 
 <p align="center">
 ✨ Learning | Building | Growing ✨
