@@ -15,12 +15,25 @@
 
 ---
 
-## About me
 
-I architect and deploy end-to-end machine learning systems — from raw data ingestion and feature engineering through model training, evaluation, and production deployment. Currently focused on **Generative AI integration**, building intelligent pipelines that automate complex business decisions across domains including healthcare, e-commerce, finance, and operations.
+<br/>
 
-I believe the best ML systems are invisible — they just work, reliably, at scale.
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                             -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
+```javascript
+const sinchana = {
+  role     : "ML Engineer & GenAI Builder",
+  company  : "ML/GenAI Intern @ Contriver Technologies",
+  building : "RAG pipelines · LLM integrations · Predictive systems",
+  stack    : ["Python", "Scikit-learn", "LangChain", "Streamlit", "React", "Node.js", "MongoDB"],
+  openTo   : "ML collaborations · Kaggle competitions · Open source AI",
+  funFact  : "I turn raw data into real-world decisions 📊"
+};
+```
+
+<br/>
 ---
 
 ## Technical expertise
