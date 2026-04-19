@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sinchana M
-### Senior ML Engineer · GenAI Systems Architect · Full-Stack AI
+### AI ML Engineer · GenAI Engineer · Full-Stack AI
 
 *Building production-grade AI systems at the intersection of machine learning,*
 *generative AI, and scalable web architecture.*
