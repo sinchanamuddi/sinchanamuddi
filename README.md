@@ -15,6 +15,14 @@
 
 <div align="center">
 
+</div>
+
+*Building production-grade AI systems at the intersection of machine learning,*
+*generative AI, and scalable web architecture.*
+
+
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchana-m-sd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231D9E75.svg?style=for-the-badge&logo=github&logoColor=white)](https://sinchanamuddi.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinchanamuddi@gmail.com)
@@ -25,10 +33,6 @@
 *Building production-grade AI systems at the intersection of machine learning,*
 *generative AI, and scalable web architecture.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchana-m-sd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://sinchanamuddi.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sinchanamuddi@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=sinchanamuddi&color=0A66C2&style=flat)
 
 </div>
 
