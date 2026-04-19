@@ -85,8 +85,8 @@ I believe the best ML systems are invisible — they just work, reliably, at sca
 
 | Role | Organisation | Period |
 |------|-------------|--------|
-| ML / GenAI Intern | Contriver Technologies | 2024 – present |
-| Data Science Intern | Cognetix | 2024 |
+| ML / GenAI Intern | Contriver Technologies | Feb 2026 – present |
+| Data Science Intern | Cognetix | April 2026 - May 2026 |
 
 ---
 
