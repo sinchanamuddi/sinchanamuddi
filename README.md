@@ -3,6 +3,25 @@
 # Sinchana M
 ### Senior ML Engineer · GenAI Systems Architect · Full-Stack AI
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=1D9E75&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Building+ML+systems+that+scale+%E2%9A%99%EF%B8%8F;GenAI+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Engineering+%F0%9F%A7%A0;Turning+raw+data+into+decisions+%F0%9F%93%8A;ML%2FGenAI+Intern+%40+Contriver+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                        BADGES                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchana-m-sd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231D9E75.svg?style=for-the-badge&logo=github&logoColor=white)](https://sinchanamuddi.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinchanamuddi@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sinchanamuddi&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS)](https://github.com/sinchanamuddi)
+
+</div>
+
 *Building production-grade AI systems at the intersection of machine learning,*
 *generative AI, and scalable web architecture.*
 
