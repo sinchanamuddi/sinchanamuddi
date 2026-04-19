@@ -136,8 +136,8 @@ const sinchana = {
 
 | Role | Organisation | Period |
 |------|-------------|--------|
-| ML / GenAI Intern | Contriver Technologies | 2024 – present |
-| Data Science Intern | Cognetix | 2024 |
+| ML / GenAI Intern | Contriver Technologies | Feb 2026 – present |
+| Data Science Intern | Cognetix | Feb 2026 - April - 2026 |
 
 ---
 
