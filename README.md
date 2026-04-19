@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sinchana M
-### Senior ML Engineer · GenAI Systems Architect · Full-Stack AI
+### AIML Engineer · GenAI Systems Architect · Full-Stack AI
 
 
 <div align="center">
@@ -51,7 +51,7 @@ I believe the best ML systems are invisible — they just work, reliably, at sca
 const sinchana = {
   role     : "ML Engineer & GenAI Builder",
   company  : "ML/GenAI Intern @ Contriver Technologies",
-  building : "RAG pipelines · LLM integrations · Predictive systems",
+  building : "LLM integrations · Predictive systems · Agentic web workflows · Edge AI & local LLMs · AI observability ·"
   stack    : ["Python", "Scikit-learn", "LangChain", "Streamlit", "React", "Node.js", "MongoDB"],
   openTo   : "ML collaborations · Kaggle competitions · Open source AI",
   funFact  : "I turn raw data into real-world decisions 📊"
